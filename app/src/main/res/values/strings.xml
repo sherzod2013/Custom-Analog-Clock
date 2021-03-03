@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Clock</string>
+    <string name="ignore_tag">ignore</string>
+</resources>

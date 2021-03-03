@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="200dp"
+    android:layout_height="200dp"
+    tools:parentTag="com.qertua.clock.view.ClockView">
+
+
+
+<!--    <ImageView-->
+<!--        android:id="@+id/minuts"-->
+<!--        android:layout_width="6dp"-->
+<!--        android:transformPivotX="0dp"-->
+<!--        android:transformPivotY="0dp"-->
+<!--        android:layout_height="80dp"-->
+<!--        android:background="?selectableItemBackgroundBorderless"-->
+<!--        android:src="@drawable/clock_minutes_bg"-->
+<!--        android:tag="@string/ignore_tag" />-->
+
+<!--    <ImageView-->
+<!--        android:id="@+id/hours"-->
+<!--        android:layout_width="6dp"-->
+<!--        android:layout_height="50dp"-->
+<!--        android:transformPivotX="0dp"-->
+<!--        android:transformPivotY="0dp"-->
+<!--        android:background="?selectableItemBackgroundBorderless"-->
+<!--        android:src="@drawable/clock_markers_bg"-->
+<!--        android:tag="@string/ignore_tag" />-->
+
+<!--    <ImageView-->
+<!--        android:id="@+id/secunds"-->
+<!--        android:layout_width="6dp"-->
+<!--        android:transformPivotX="0dp"-->
+<!--        android:transformPivotY="0dp"-->
+<!--        android:layout_height="100dp"-->
+<!--        android:background="?selectableItemBackgroundBorderless"-->
+<!--        android:src="@drawable/clock_secunds_bg"-->
+<!--        android:tag="@string/ignore_tag" />-->
+</merge>
