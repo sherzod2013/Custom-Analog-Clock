@@ -9,7 +9,6 @@ Custom-Analog-Clock is a custom clock view for any usage.
         android:id="@+id/my_clock"
         android:layout_width="200dp"
         android:layout_height="200dp"
-        android:text="Hello World!"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
