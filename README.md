@@ -1,7 +1,9 @@
 # Custom-Analog-Clock
 
 Custom-Analog-Clock is a custom clock view for any usage. 
+## View
 
+![sherzod2013](https://github.com/sherzod2013/Custom-Analog-Clock/images/clock.png)
 ## Usage
 
 ```xml
